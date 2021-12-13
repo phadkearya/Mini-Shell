@@ -1,0 +1,41 @@
+ history
+history -write
+
+dw
+
+
+exit
+
+cd ..
+man
+man man
+
+exit
+
+exit
+ls
+cd ..
+man
+man man
+ls
+exit
+man 
+man man
+exit
+cd ..
+which main.c
+exit
+cd ..
+cd ..
+cd
+help
+exit
+ls
+exit
+pwd
+cwd
+help
+date
+man
+man man
+exit

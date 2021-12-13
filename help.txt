@@ -1,0 +1,22 @@
+Commands in the minishell:
+
+- cat
+- clear
+- cp
+- date
+- ls
+- man
+- mkdir
+- cal
+- rm
+- rmdir
+- touch
+- which
+- echo
+- cd
+- pwd
+- history
+- help
+- exit
+
+
